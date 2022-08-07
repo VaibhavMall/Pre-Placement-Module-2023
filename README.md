@@ -1,9 +1,9 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
+- Name: Vaibhav 
+- University Roll No.: 2000290409017
+- Branch: Mechanical
+- Section: C
 - Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
